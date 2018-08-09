@@ -24,7 +24,6 @@
 (13)webpack设置清除控制台无用信息
 使用到Friendly-errors-webpack-plugin
 
-
 ##############
 npm run test // 测试
 npm run start // 启动项目
