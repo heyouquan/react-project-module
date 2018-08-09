@@ -23,3 +23,10 @@
 使用到open-browser-webpack-plugin插件
 (13)webpack设置清除控制台无用信息
 使用到Friendly-errors-webpack-plugin
+
+
+##############
+npm run test // 测试
+npm run start // 启动项目
+npm run dll // 合成静态文件，避免webpack每次都去编译静态文件，导致编译速度很慢
+npm run build // 编译项目，产出生产环境的代码
